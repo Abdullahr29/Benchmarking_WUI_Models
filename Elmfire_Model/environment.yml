@@ -1,0 +1,17 @@
+name: elmfire_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - google-api-python-client
+  - grpcio
+  - grpcio-tools
+  - python-dateutil
+  - numpy
+  - pandas
+  - geopandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - plotly
