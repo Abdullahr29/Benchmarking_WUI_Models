@@ -43,7 +43,7 @@ YMAX=$XMAX
 TR="$CELLSIZE $CELLSIZE"
 TE="$XMIN $YMIN $XMAX $YMAX"
 
-SCRATCH=./scratch
+SCRATCH=/scratch_tmp/users/k24109631/elmfire
 INPUTS=./inputs
 OUTPUTS=./outputs
 
@@ -68,6 +68,12 @@ for i in $(eval echo "{1..$NUM_INT_RASTERS}"); do
    gdal_calc.py -A $SCRATCH/int.tif --co="COMPRESS=DEFLATE" --co="ZLEVEL=9" --NoDataValue=-9999 --outfile="$INPUTS/${INT_RASTER[i]}.tif" --calc="A + ${INT_VAL[i]}"
 done
 
+
+#for f in $INPUTS/*.tif; do
+ #  gdal_calc.py -A $f --allBands=A --NoDataValue=-9999 --calc="A*1.0" --outfile=$INPUTS/`basename $f` --overwrite >& /dev/null &
+#done
+#wait
+
 # Set inputs in elmfire.data
 replace_line COMPUTATIONAL_DOMAIN_XLLCORNER $XMIN no
 replace_line COMPUTATIONAL_DOMAIN_YLLCORNER $YMIN no
@@ -80,6 +86,7 @@ replace_line A_SRS "$A_SRS" yes
 # Execute ELMFIRE
 elmfire_$ELMFIRE_VER ./inputs/elmfire.data
 
+
 # Postprocess
 for f in ./outputs/*.bil; do
    gdal_translate -a_srs "$A_SRS" -co "COMPRESS=DEFLATE" -co "ZLEVEL=9" $f ./outputs/`basename $f | cut -d. -f1`.tif
@@ -87,6 +94,6 @@ done
 gdal_contour -i 3600 `ls ./outputs/time_of_arrival*.tif` ./outputs/hourly_isochrones.shp
 
 # Clean up and exit:
-rm -f -r ./outputs/*.csv ./outputs/*.bil ./outputs/*.hdr $SCRATCH
+# rm -f -r ./outputs/*.csv ./outputs/*.bil ./outputs/*.hdr $SCRATCH
 
 exit 0

@@ -1,0 +1,34 @@
+ ELMFIRE 2024.0831
+ Reading &MISCELLANEOUS namelist group
+ Reading &INPUTS namelist group
+ Reading &OUTPUTS namelist group
+ Reading &COMPUTATIONAL_DOMAIN namelist group
+ Reading &TIME_CONTROL namelist group
+ Reading &SIMULATOR namelist group
+ Reading &WUI namelist group
+ Reading &CALIBRATION namelist group
+ Reading &SUPPRESSION namelist group
+ Reading &SPOTTING namelist group
+ Reading &SMOKE namelist group
+ Reading &MONTE_CARLO namelist group
+ Reading headers for fuels/topography and weather rasters
+/usr/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/asp.tif ./scratch/asp.bsq
+sh: 1: /usr/bin/gdal_translate: not found
+Fortran runtime error: EXECUTE_COMMAND_LINE: Invalid command line
+
+Error termination. Backtrace:
+#0  0x7116b90b0a45 in set_cmdstat
+	at /tmp/er_hpc_build_v0_21/spack-stage/spack-stage-gcc-13.2.0-i6mrihryg2dkdzhfiohz3z56fdeh2y7p/spack-src/libgfortran/intrinsics/execute_command_line.c:68
+#1  0x7116b90b0a45 in set_cmdstat
+	at /tmp/er_hpc_build_v0_21/spack-stage/spack-stage-gcc-13.2.0-i6mrihryg2dkdzhfiohz3z56fdeh2y7p/spack-src/libgfortran/intrinsics/execute_command_line.c:59
+#2  0x7116b90b0a45 in execute_command_line
+	at /tmp/er_hpc_build_v0_21/spack-stage/spack-stage-gcc-13.2.0-i6mrihryg2dkdzhfiohz3z56fdeh2y7p/spack-src/libgfortran/intrinsics/execute_command_line.c:156
+#3  0x42b710 in ???
+#4  0x4595a5 in ???
+#5  0x4035e6 in ???
+#6  0x7116b8829d8f in __libc_start_call_main
+	at ../sysdeps/nptl/libc_start_call_main.h:58
+#7  0x7116b8829e3f in __libc_start_main_impl
+	at ../csu/libc-start.c:392
+#8  0x403614 in ???
+#9  0xffffffffffffffff in ???
