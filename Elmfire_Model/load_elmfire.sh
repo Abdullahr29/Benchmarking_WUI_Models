@@ -18,11 +18,15 @@ module load openmpi
 module load python
 
 # Step 2: Set environment variables dynamically
-export ELMFIRE_SCRATCH_BASE=/scratch/users/k24109631/elmfire
+export ELMFIRE_SCRATCH_BASE=/scratch_tmp/users/k24109631/elmfire
 export ELMFIRE_BASE_DIR="$SCRIPT_DIR/elmfire"
 export ELMFIRE_INSTALL_DIR="$ELMFIRE_BASE_DIR/build/linux/bin"
 export CLOUDFIRE_SERVER=172.92.17.198
+export OMPI_CC=$(which gcc)
+export OMPI_CXX=$(which g++)
+export OMPI_FC=$(which gfortran)
 export PATH=$PATH:$ELMFIRE_INSTALL_DIR:$ELMFIRE_BASE_DIR/cloudfire
+export PATH=/usr/bin:$PATH
 
 echo "Environment variables for Elmfire set successfully."
 
