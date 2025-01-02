@@ -68,9 +68,21 @@ for i in $(eval echo "{1..$NUM_INT_RASTERS}"); do
    gdal_calc.py -A $SCRATCH/int.tif --co="COMPRESS=DEFLATE" --co="ZLEVEL=9" --NoDataValue=-9999 --outfile="$INPUTS/${INT_RASTER[i]}.tif" --calc="A + ${INT_VAL[i]}"
 done
 
+# Attempts to fix the Bad integer in item 1 issue
+#gdal_calc.py -A ./inputs/asp.tif --outfile=./inputs/asp.tif --calc="10" --type=Int16 --co="COMPRESS=DEFLATE" --NoDataValue=-9999 --overwrite
 
-#for f in $INPUTS/*.tif; do
- #  gdal_calc.py -A $f --allBands=A --NoDataValue=-9999 --calc="A*1.0" --outfile=$INPUTS/`basename $f` --overwrite >& /dev/null &
+#for i in $(eval echo "{1..$NUM_FLOAT_RASTERS}"); do
+ #  gdal_calc.py -A "$INPUTS/${FLOAT_RASTER[i]}.tif" --allBands=A --NoDataValue=-9999 --calc="A*1.0" --outfile="$INPUTS/${FLOAT_RASTER[i]}.tif" --overwrite >& /dev/null &
+#done
+#wait
+
+#for i in $(eval echo "{1..$NUM_INT_RASTERS}"); do
+#	gdal_calc.py -A "$INPUTS/${INT_RASTER[i]}.tif" --allBands=A --NoDataValue=-9999 --calc="A*1" --outfile="$INPUTS/${INT_RASTER[i]}.tif" --overwrite >& /dev/null &
+#done
+#wait
+
+#for f in ./inputs_in/*.tif; do
+#	gdal_translate -of GTiff -co PROFILE=BASELINE inputs_in/`basename $f` $INPUTS/`basename $f`
 #done
 #wait
 
@@ -94,6 +106,6 @@ done
 gdal_contour -i 3600 `ls ./outputs/time_of_arrival*.tif` ./outputs/hourly_isochrones.shp
 
 # Clean up and exit:
-# rm -f -r ./outputs/*.csv ./outputs/*.bil ./outputs/*.hdr $SCRATCH
+#rm -f -r ./outputs/*.csv ./outputs/*.bil ./outputs/*.hdr $SCRATCH
 
 exit 0

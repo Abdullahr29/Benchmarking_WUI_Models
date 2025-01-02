@@ -52,5 +52,5 @@ WX_BILINEAR_INTERPOLATION=.TRUE.
 
 &MISCELLANEOUS
 PATH_TO_GDAL                   = '/users/k24109631/miniconda3/envs/elmfire_env/bin'
-SCRATCH                        = /scratch_tmp/users/k24109631/elmfire
+SCRATCH                        = '/scratch_tmp/users/k24109631/elmfire'
 /
