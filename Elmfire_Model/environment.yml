@@ -4,16 +4,9 @@ channels:
   - defaults
 dependencies:
   - python=3.11.6
+  - gdal=3.4.*
   - mpi4py
   - google-api-python-client
   - grpcio
   - grpcio-tools
   - python-dateutil
-  - numpy
-  - pandas
-  - geopandas
-  - scipy
-  - matplotlib
-  - seaborn
-  - plotly
-  - gdal

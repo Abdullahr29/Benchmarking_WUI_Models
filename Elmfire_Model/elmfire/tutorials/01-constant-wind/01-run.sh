@@ -1,5 +1,11 @@
 #!/bin/bash
 
+#SBATCH --job-name=test-job1
+#SBATCH --partition=cpu
+#SBATCH --ntasks=4
+#SBATCH --nodes=1
+#SBATCH --mem=2G
+
 # Begin specifying inputs
 
 CELLSIZE=30.0 # Grid size in meters
@@ -106,6 +112,6 @@ done
 gdal_contour -i 3600 `ls ./outputs/time_of_arrival*.tif` ./outputs/hourly_isochrones.shp
 
 # Clean up and exit:
-#rm -f -r ./outputs/*.csv ./outputs/*.bil ./outputs/*.hdr $SCRATCH
+rm -f -r ./outputs/*.csv ./outputs/*.bil ./outputs/*.hdr $SCRATCH
 
 exit 0
