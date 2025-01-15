@@ -42,7 +42,7 @@ COMPUTATIONAL_DOMAIN_YLLCORNER =
 &TIME_CONTROL
 SIMULATION_DT    = 1.0
 TARGET_CFL       = 0.2
-SIMULATION_TSTOP = 
+SIMULATION_TSTOP = 86400
 /
 
 &MONTE_CARLO
@@ -51,12 +51,12 @@ NUM_METEOROLOGY_TIMES = 8
 
 &SIMULATOR
 NUM_IGNITIONS = 1
-X_IGN(1)      = 0.0
-Y_IGN(1)      = 3000.0
+X_IGN(1)      = -150
+Y_IGN(1)      = 0.0
 T_IGN(1)      = 0.0
 /
 
 &MISCELLANEOUS
-PATH_TO_GDAL                   = '/usr/bin'
-SCRATCH                        = './scratch'
+PATH_TO_GDAL                   = '/users/k24109631/miniconda3/envs/elmfire_env/bin'
+SCRATCH                        = '/scratch_tmp/users/k24109631/elmfire'
 /
