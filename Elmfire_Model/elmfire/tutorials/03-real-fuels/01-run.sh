@@ -1,11 +1,19 @@
 #!/bin/bash
 
+#SBATCH --job-name=lahaina
+#SBATCH --partition=cpu
+#SBATCH --ntasks=4
+#SBATCH --nodes=1
+#SBATCH --mem=2G
+
 # Get fuel data for a tile:
 $ELMFIRE_BASE_DIR/cloudfire/fuel_wx_ign.py \
-    --do_wx=False --do_ignition=False \
-    --center_lon=-120.281 --center_lat=37.440 \
-    --fuel_source='landfire' --fuel_version='2.3.0' \
-    --outdir='./fuel' --name='tutorial03'
+    --do_wx=False --do_ignition=True \
+    --point_ignition=True --ignition_lon=-156.660 --ignition_lat=20.885 --ignition_radius=30 \   
+    --center_lon=-156.657 --center_lat=20.882 \
+    --north_buffer=4 --south_buffer=4 --west_buffer=4 --east_buffer=8 \
+    --fuel_source='landfire' --fuel_version='2.4.0_2.3.0' \
+    --outdir='./fuel' --name='lahaina'
 
 SIMULATION_TSTOP=22200.0 # Simulation stop time (seconds)
 WX_INPUTS_FILE=wx.csv
@@ -16,7 +24,7 @@ ELMFIRE_VER=${ELMFIRE_VER:-2024.0831}
 
 . ../functions/functions.sh
 
-SCRATCH=./scratch
+SCRATCH=/scratch_tmp/users/k24109631/elmfire
 INPUTS=./inputs
 OUTPUTS=./outputs
 
