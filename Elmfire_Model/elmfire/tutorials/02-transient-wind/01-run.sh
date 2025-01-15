@@ -1,5 +1,11 @@
 #!/bin/bash
 
+#SBATCH --job-name=test-job1
+#SBATCH --partition=cpu
+#SBATCH --ntasks=4
+#SBATCH --nodes=1
+#SBATCH --mem=2G
+
 # Begin specifying inputs
 
 CELLSIZE=30.0 # Grid size in meters
@@ -38,7 +44,7 @@ YMAX=$XMAX
 TR="$CELLSIZE $CELLSIZE"
 TE="$XMIN $YMIN $XMAX $YMAX"
 
-SCRATCH=./scratch
+SCRATCH=/scratch_tmp/users/k24109631/elmfire
 INPUTS=./inputs
 OUTPUTS=./outputs
 
