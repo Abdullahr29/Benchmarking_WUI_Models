@@ -8,8 +8,7 @@
 
 # Get fuel data for a tile:
 $ELMFIRE_BASE_DIR/cloudfire/fuel_wx_ign.py \
-    --do_wx=False --do_ignition=True \
-    --point_ignition=True --ignition_lon=-156.660 --ignition_lat=20.885 --ignition_radius=30 \   
+    --do_wx=False --do_ignition=False \   
     --center_lon=-156.657 --center_lat=20.882 \
     --north_buffer=4 --south_buffer=4 --west_buffer=4 --east_buffer=8 \
     --fuel_source='landfire' --fuel_version='2.4.0_2.3.0' \
@@ -32,7 +31,7 @@ rm -f -r $SCRATCH $INPUTS $OUTPUTS
 mkdir $SCRATCH $INPUTS $OUTPUTS
 cp elmfire.data.in $INPUTS/elmfire.data
 
-tar -xvf ./fuel/tutorial03.tar -C $INPUTS
+tar -xvf ./fuel/lahaina.tar -C $INPUTS
 rm -f $INPUTS/m*.tif $INPUTS/w*.tif $INPUTS/l*.tif $INPUTS/ignition*.tif $INPUTS/forecast_cycle.txt
 
 XMIN=`gdalinfo $INPUTS/fbfm40.tif | grep 'Lower Left'  | cut -d'(' -f2 | cut -d, -f1 | xargs`
