@@ -1,0 +1,26 @@
+name: data_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.6
+  - gdal
+  - mpi4py
+  - python-dateutil
+  - cdsapi
+  - numpy
+  - scipy
+  - pandas
+  - geopandas
+  - osgeo
+  - jupyter
+  - fiona
+  - shapely
+  - rasterio
+  - rtree
+  - xarray
+  - netCDF4
+  - cartopy
+  - pyproj
+  - jupyter
+  - geopy

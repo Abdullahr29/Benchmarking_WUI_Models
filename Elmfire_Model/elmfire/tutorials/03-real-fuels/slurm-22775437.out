@@ -1,0 +1,75 @@
+Traceback (most recent call last):
+  File "/users/k24109631/Projects/Benchmarking_WUI_Models/Elmfire_Model/elmfire/cloudfire/fuel_wx_ign.py", line 40, in <module>
+    import pytz
+ModuleNotFoundError: No module named 'pytz'
+./adj.tif
+./asp.tif
+./dem.tif
+./ignition_mask.tif
+./lh.tif
+./lw.tif
+./m100.tif
+./m10.tif
+./m1.tif
+./metadata.in
+./metadata.out
+./phi.tif
+./slp.tif
+./wd.tif
+./ws.tif
+ERROR 4: ./inputs/fbfm40.tif: No such file or directory
+gdalinfo failed - unable to open './inputs/fbfm40.tif'.
+ERROR 4: ./inputs/fbfm40.tif: No such file or directory
+gdalinfo failed - unable to open './inputs/fbfm40.tif'.
+ERROR 4: ./inputs/fbfm40.tif: No such file or directory
+gdalinfo failed - unable to open './inputs/fbfm40.tif'.
+ERROR 4: ./inputs/fbfm40.tif: No such file or directory
+gdalinfo failed - unable to open './inputs/fbfm40.tif'.
+(standard_in) 1: syntax error
+(standard_in) 1: syntax error
+ERROR 1: ERROR - failed to load SRS definition from ./inputs/fbfm40.tif
+ERROR 4: ./inputs/fbfm40.tif: No such file or directory
+gdalinfo failed - unable to open './inputs/fbfm40.tif'.
+Creating output file that is 40P x 27L.
+Processing ./inputs/adj.tif [1/1] : 0Using internal nodata values (e.g. -9999) for image ./inputs/adj.tif.
+...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+ ELMFIRE 2024.0831
+ Reading &MISCELLANEOUS namelist group
+ Reading &INPUTS namelist group
+ Reading &OUTPUTS namelist group
+ Reading &COMPUTATIONAL_DOMAIN namelist group
+ Error: Problem with namelist group &COMPUTATIONAL_DOMAIN.
+ERROR 4: ./outputs/*.bil: No such file or directory
+ls: cannot access './outputs/time_of_arrival*.tif': No such file or directory
+
+FAILURE: Missing destination filename.
+Usage: gdal_contour [-b <band>] [-a <attribute_name>] [-amin <attribute_name>] [-amax <attribute_name>]
+                    [-3d] [-inodata] [-snodata n] [-f <formatname>] [-i <interval>]
+                    [[-dsco NAME=VALUE] ...] [[-lco NAME=VALUE] ...]
+                    [-off <offset>] [-fl <level> <level>...] [-e <exp_base>]
+                    [-nln <outlayername>] [-q] [-p]
+                    <src_filename> <dst_filename>

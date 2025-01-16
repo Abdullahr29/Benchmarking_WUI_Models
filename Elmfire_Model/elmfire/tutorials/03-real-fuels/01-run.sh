@@ -8,10 +8,10 @@
 
 # Get fuel data for a tile:
 $ELMFIRE_BASE_DIR/cloudfire/fuel_wx_ign.py \
-    --do_wx=False --do_ignition=False \   
-    --center_lon=-156.657 --center_lat=20.882 \
+    --do_wx=False --do_ignition=False \
+    --center_lon=-120.281 --center_lat=37.440 \
     --north_buffer=4 --south_buffer=4 --west_buffer=4 --east_buffer=8 \
-    --fuel_source='landfire' --fuel_version='2.4.0_2.3.0' \
+    --fuel_source='landfire' --fuel_version='2.3.0' \
     --outdir='./fuel' --name='lahaina'
 
 SIMULATION_TSTOP=22200.0 # Simulation stop time (seconds)

@@ -1,0 +1,329 @@
+Creating output file that is 1P x 1L.
+Processing /scratch_tmp/users/k24109631/elmfire/dummy.xyz [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 400P x 400L.
+Processing /scratch_tmp/users/k24109631/elmfire/dummy.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 400P x 400L.
+Processing /scratch_tmp/users/k24109631/elmfire/dummy.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 2.. 5.. 7.. 10.. 12.. 15.. 17.. 20.. 22.. 25.. 27.. 30.. 32.. 35.. 37.. 40.. 42.. 45.. 47.. 50.. 52.. 55.. 57.. 60.. 62.. 65.. 67.. 70.. 72.. 75.. 77.. 80.. 82.. 85.. 87.. 90.. 92.. 95.. 97.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 2.. 5.. 7.. 10.. 12.. 15.. 17.. 20.. 22.. 25.. 27.. 30.. 32.. 35.. 37.. 40.. 42.. 45.. 47.. 50.. 52.. 55.. 57.. 60.. 62.. 65.. 67.. 70.. 72.. 75.. 77.. 80.. 82.. 85.. 87.. 90.. 92.. 95.. 97.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 2.. 5.. 7.. 10.. 12.. 15.. 17.. 20.. 22.. 25.. 27.. 30.. 32.. 35.. 37.. 40.. 42.. 45.. 47.. 50.. 52.. 55.. 57.. 60.. 62.. 65.. 67.. 70.. 72.. 75.. 77.. 80.. 82.. 85.. 87.. 90.. 92.. 95.. 97.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 2.. 5.. 7.. 10.. 12.. 15.. 17.. 20.. 22.. 25.. 27.. 30.. 32.. 35.. 37.. 40.. 42.. 45.. 47.. 50.. 52.. 55.. 57.. 60.. 62.. 65.. 67.. 70.. 72.. 75.. 77.. 80.. 82.. 85.. 87.. 90.. 92.. 95.. 97.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 2.. 5.. 7.. 10.. 12.. 15.. 17.. 20.. 22.. 25.. 27.. 30.. 32.. 35.. 37.. 40.. 42.. 45.. 47.. 50.. 52.. 55.. 57.. 60.. 62.. 65.. 67.. 70.. 72.. 75.. 77.. 80.. 82.. 85.. 87.. 90.. 92.. 95.. 97.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 2.. 5.. 7.. 10.. 12.. 15.. 17.. 20.. 22.. 25.. 27.. 30.. 32.. 35.. 37.. 40.. 42.. 45.. 47.. 50.. 52.. 55.. 57.. 60.. 62.. 65.. 67.. 70.. 72.. 75.. 77.. 80.. 82.. 85.. 87.. 90.. 92.. 95.. 97.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 2.. 5.. 7.. 10.. 12.. 15.. 17.. 20.. 22.. 25.. 27.. 30.. 32.. 35.. 37.. 40.. 42.. 45.. 47.. 50.. 52.. 55.. 57.. 60.. 62.. 65.. 67.. 70.. 72.. 75.. 77.. 80.. 82.. 85.. 87.. 90.. 92.. 95.. 97.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 2.. 5.. 7.. 10.. 12.. 15.. 17.. 20.. 22.. 25.. 27.. 30.. 32.. 35.. 37.. 40.. 42.. 45.. 47.. 50.. 52.. 55.. 57.. 60.. 62.. 65.. 67.. 70.. 72.. 75.. 77.. 80.. 82.. 85.. 87.. 90.. 92.. 95.. 97.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_calc.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_calc.py')
+0.. 1.. 2.. 3.. 5.. 6.. 7.. 8.. 10.. 11.. 12.. 13.. 15.. 16.. 17.. 18.. 20.. 21.. 22.. 23.. 25.. 26.. 27.. 28.. 30.. 31.. 32.. 33.. 35.. 36.. 37.. 38.. 40.. 41.. 42.. 43.. 45.. 46.. 47.. 48.. 50.. 51.. 52.. 53.. 55.. 56.. 57.. 58.. 60.. 61.. 62.. 63.. 65.. 66.. 67.. 68.. 70.. 71.. 72.. 73.. 75.. 76.. 77.. 78.. 80.. 81.. 82.. 83.. 85.. 86.. 87.. 88.. 90.. 91.. 92.. 93.. 95.. 96.. 97.. 98.. 100 - Done
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_merge.py:4: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  __import__('pkg_resources').run_script('GDAL==3.4.1', 'gdal_merge.py')
+0...10...20...30...40...50...60...70...80...90...100 - done.
+ ELMFIRE 2024.0831
+ Reading &MISCELLANEOUS namelist group
+ Reading &INPUTS namelist group
+ Reading &OUTPUTS namelist group
+ Reading &COMPUTATIONAL_DOMAIN namelist group
+ Reading &TIME_CONTROL namelist group
+ Reading &SIMULATOR namelist group
+ Reading &WUI namelist group
+ Reading &CALIBRATION namelist group
+ Reading &SUPPRESSION namelist group
+ Reading &SPOTTING namelist group
+ Reading &SMOKE namelist group
+ Reading &MONTE_CARLO namelist group
+ Reading headers for fuels/topography and weather rasters
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/asp.tif /scratch_tmp/users/k24109631/elmfire/asp.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/ws.tif /scratch_tmp/users/k24109631/elmfire/ws.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+ Setting up shared memory, part 1
+ Reading weather, fuel, and topography rasters
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/ws.bsq /scratch_tmp/users/k24109631/elmfire/ws.hdr /scratch_tmp/users/k24109631/elmfire/ws.prj /scratch_tmp/users/k24109631/elmfire/ws.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/ws.tif /scratch_tmp/users/k24109631/elmfire/ws.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/wd.bsq /scratch_tmp/users/k24109631/elmfire/wd.hdr /scratch_tmp/users/k24109631/elmfire/wd.prj /scratch_tmp/users/k24109631/elmfire/wd.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/wd.tif /scratch_tmp/users/k24109631/elmfire/wd.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/m1.bsq /scratch_tmp/users/k24109631/elmfire/m1.hdr /scratch_tmp/users/k24109631/elmfire/m1.prj /scratch_tmp/users/k24109631/elmfire/m1.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/m1.tif /scratch_tmp/users/k24109631/elmfire/m1.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/m10.bsq /scratch_tmp/users/k24109631/elmfire/m10.hdr /scratch_tmp/users/k24109631/elmfire/m10.prj /scratch_tmp/users/k24109631/elmfire/m10.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/m10.tif /scratch_tmp/users/k24109631/elmfire/m10.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/m100.bsq /scratch_tmp/users/k24109631/elmfire/m100.hdr /scratch_tmp/users/k24109631/elmfire/m100.prj /scratch_tmp/users/k24109631/elmfire/m100.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/m100.tif /scratch_tmp/users/k24109631/elmfire/m100.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/lh.bsq /scratch_tmp/users/k24109631/elmfire/lh.hdr /scratch_tmp/users/k24109631/elmfire/lh.prj /scratch_tmp/users/k24109631/elmfire/lh.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/lh.tif /scratch_tmp/users/k24109631/elmfire/lh.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/lw.bsq /scratch_tmp/users/k24109631/elmfire/lw.hdr /scratch_tmp/users/k24109631/elmfire/lw.prj /scratch_tmp/users/k24109631/elmfire/lw.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/lw.tif /scratch_tmp/users/k24109631/elmfire/lw.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+ Reading fuel and topography rasters
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/asp.bsq /scratch_tmp/users/k24109631/elmfire/asp.hdr /scratch_tmp/users/k24109631/elmfire/asp.prj /scratch_tmp/users/k24109631/elmfire/asp.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/asp.tif /scratch_tmp/users/k24109631/elmfire/asp.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/cbh.bsq /scratch_tmp/users/k24109631/elmfire/cbh.hdr /scratch_tmp/users/k24109631/elmfire/cbh.prj /scratch_tmp/users/k24109631/elmfire/cbh.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/cbh.tif /scratch_tmp/users/k24109631/elmfire/cbh.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/cbd.bsq /scratch_tmp/users/k24109631/elmfire/cbd.hdr /scratch_tmp/users/k24109631/elmfire/cbd.prj /scratch_tmp/users/k24109631/elmfire/cbd.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/cbd.tif /scratch_tmp/users/k24109631/elmfire/cbd.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/cc.bsq /scratch_tmp/users/k24109631/elmfire/cc.hdr /scratch_tmp/users/k24109631/elmfire/cc.prj /scratch_tmp/users/k24109631/elmfire/cc.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/cc.tif /scratch_tmp/users/k24109631/elmfire/cc.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/ch.bsq /scratch_tmp/users/k24109631/elmfire/ch.hdr /scratch_tmp/users/k24109631/elmfire/ch.prj /scratch_tmp/users/k24109631/elmfire/ch.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/ch.tif /scratch_tmp/users/k24109631/elmfire/ch.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/dem.bsq /scratch_tmp/users/k24109631/elmfire/dem.hdr /scratch_tmp/users/k24109631/elmfire/dem.prj /scratch_tmp/users/k24109631/elmfire/dem.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/dem.tif /scratch_tmp/users/k24109631/elmfire/dem.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/fbfm40.bsq /scratch_tmp/users/k24109631/elmfire/fbfm40.hdr /scratch_tmp/users/k24109631/elmfire/fbfm40.prj /scratch_tmp/users/k24109631/elmfire/fbfm40.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/fbfm40.tif /scratch_tmp/users/k24109631/elmfire/fbfm40.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/slp.bsq /scratch_tmp/users/k24109631/elmfire/slp.hdr /scratch_tmp/users/k24109631/elmfire/slp.prj /scratch_tmp/users/k24109631/elmfire/slp.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/slp.tif /scratch_tmp/users/k24109631/elmfire/slp.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/adj.bsq /scratch_tmp/users/k24109631/elmfire/adj.hdr /scratch_tmp/users/k24109631/elmfire/adj.prj /scratch_tmp/users/k24109631/elmfire/adj.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/adj.tif /scratch_tmp/users/k24109631/elmfire/adj.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+/bin/rm -f /scratch_tmp/users/k24109631/elmfire/phi.bsq /scratch_tmp/users/k24109631/elmfire/phi.hdr /scratch_tmp/users/k24109631/elmfire/phi.prj /scratch_tmp/users/k24109631/elmfire/phi.bsq.aux.xml
+/users/k24109631/miniconda3/envs/elmfire_env/bin/gdal_translate -of ENVI -co "INTERLEAVE=BSQ" ./inputs/phi.tif /scratch_tmp/users/k24109631/elmfire/phi.bsq
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+ Allocating additional rasters
+ Setting up shared memory, part 2
+ Setting up statistics arrays
+ ELMFIRE is running each ensemble member
+Meteorology band      1: Case #       1 complete.  Fire area:   6448.3 acres.
+ End of simulation reached successfully. Shutting down.
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 400, 400
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
