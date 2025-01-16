@@ -51,7 +51,7 @@ NUM_METEOROLOGY_TIMES = 8
 
 &SIMULATOR
 NUM_IGNITIONS = 1
-X_IGN(1)      = -150
+X_IGN(1)      = -100
 Y_IGN(1)      = 0.0
 T_IGN(1)      = 0.0
 /
