@@ -1,4 +1,4 @@
-To get elmfire up and running, the only thing required is to run the load_elmfire.sh bash script using the source command: 
+To get elmfire up and running, the only thing required is to install miniconda3 and run the load_elmfire.sh bash script using the source command: 
 "source load_elmfire.sh" HOWEVER, make sure that the scratch directory is correctly noted.
 
 Then build the elmfire model and tool as follows:

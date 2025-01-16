@@ -1,6 +1,6 @@
 #!/bin/bash
-# load_elmfire.sh
-# This script sets up the environment for running Elmfire
+# load_data_env.sh
+# This script sets up the environment for data processing
 
 # Step 0: Checks and variable setup
 if [ "$0" = "$BASH_SOURCE" ]; then
@@ -9,7 +9,7 @@ if [ "$0" = "$BASH_SOURCE" ]; then
 fi
 
 SCRIPT_DIR=$(dirname "$(realpath "${BASH_SOURCE[0]}")")
-ENV_NAME="elmfire_env"
+ENV_NAME="data_env"
 ENV_FILE="$SCRIPT_DIR/environment.yml"
 
 # Step 1: Load required HPC modules
@@ -18,17 +18,9 @@ module load openmpi/4.1.6-gcc-13.2.0-flex-2.6.4-python-3.11.6
 module load python
 
 # Step 2: Set environment variables dynamically
-export ELMFIRE_SCRATCH_BASE=/scratch_tmp/users/k24109631/elmfire
-export ELMFIRE_BASE_DIR="$SCRIPT_DIR/elmfire"
-export ELMFIRE_INSTALL_DIR="$ELMFIRE_BASE_DIR/build/linux/bin"
-export CLOUDFIRE_SERVER=172.92.17.198
-export OMPI_CC=/usr/bin/gcc
-export OMPI_CXX=/usr/bin/g++
-export OMPI_FC=/usr/bin/gfortran
-export PATH=$PATH:$ELMFIRE_INSTALL_DIR:$ELMFIRE_BASE_DIR/cloudfire
 export PATH=/usr/bin:$PATH
 
-echo "Environment variables for Elmfire set successfully."
+echo "Environment variables for Data set successfully."
 
 # Step 3: Check active Conda environment
 if [ -n "$CONDA_DEFAULT_ENV" ]; then
@@ -64,8 +56,8 @@ conda activate $ENV_NAME
 
 # Step 7: Verify Activation and Print Success Message
 if [ "$CONDA_DEFAULT_ENV" == "$ENV_NAME" ]; then
-  	echo "Elmfire environment loaded and ready!"
+  	echo "Data environment loaded and ready!"
 else
-  	echo "Error: Failed to activate Elmfire environment."
+  	echo "Error: Failed to activate Data environment."
   return 1
 fi
