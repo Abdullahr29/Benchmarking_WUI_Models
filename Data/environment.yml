@@ -12,7 +12,6 @@ dependencies:
   - scipy
   - pandas
   - geopandas
-  - osgeo
   - jupyter
   - fiona
   - shapely

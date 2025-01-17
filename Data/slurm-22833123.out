@@ -1,0 +1,51 @@
+1. SSH tunnel from your workstation using the following command:
+
+   ssh -NL 8888:erc-hpc-comp017:52517 k24109631@hpc.create.kcl.ac.uk
+
+   ssh -m hmac-sha2-512 -NL 8888:erc-hpc-comp017:52517 k24109631@hpc.create.kcl.ac.uk
+
+   and point your web browser to http://localhost:8888
+
+When done using the notebook, terminate the job by
+issuing the following command on the login node:
+
+      scancel -f 22833123
+
+[I 2025-01-17 11:16:56.776 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-01-17 11:16:56.785 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-01-17 11:16:56.795 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-01-17 11:16:56.803 ServerApp] notebook | extension was successfully linked.
+[I 2025-01-17 11:16:58.458 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-01-17 11:16:58.574 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-01-17 11:16:58.577 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-01-17 11:16:58.579 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-01-17 11:16:58.653 LabApp] JupyterLab extension loaded from /users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyterlab
+[I 2025-01-17 11:16:58.653 LabApp] JupyterLab application directory is /users/k24109631/miniconda3/envs/data_env/share/jupyter/lab
+[I 2025-01-17 11:16:58.654 LabApp] Extension Manager is 'pypi'.
+[I 2025-01-17 11:16:58.923 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-01-17 11:16:58.932 ServerApp] notebook | extension was successfully loaded.
+[I 2025-01-17 11:16:58.932 ServerApp] Serving notebooks from local directory: /users/k24109631/Projects/Benchmarking_WUI_Models/Data
+[I 2025-01-17 11:16:58.933 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-01-17 11:16:58.933 ServerApp] http://10.211.4.117:52517/lab
+[I 2025-01-17 11:16:58.933 ServerApp]     http://127.0.0.1:52517/lab
+[I 2025-01-17 11:16:58.933 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2025-01-17 11:16:59.090 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-01-17 11:18:40.564 ServerApp] 302 GET / (@10.211.4.12) 0.62ms
+[W 2025-01-17 11:18:43.715 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2025-01-17 11:18:44.403 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1737112725589 (b6e4352ae94f459e93671cd2372fc0ec@10.211.4.12) 1.04ms referer=http://localhost:8888/lab?
+[W 2025-01-17 11:18:44.404 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1737112725589 (10.211.4.12): No such file or directory: Untitled.ipynb
+[I 2025-01-17 11:18:45.428 ServerApp] New terminal with automatic name: 1
+[I 2025-01-17 11:18:45.842 ServerApp] Kernel started: 135712cb-30a8-41d9-9635-6d322340fd69
+[I 2025-01-17 11:18:46.933 ServerApp] Connecting to kernel 135712cb-30a8-41d9-9635-6d322340fd69.
+[I 2025-01-17 11:18:46.935 ServerApp] Connecting to kernel 135712cb-30a8-41d9-9635-6d322340fd69.
+[I 2025-01-17 11:18:47.004 ServerApp] Connecting to kernel 135712cb-30a8-41d9-9635-6d322340fd69.
+[I 2025-01-17 11:20:45.697 ServerApp] Saving file at /ERA5_analysis.ipynb
+[I 2025-01-17 11:22:45.865 ServerApp] Saving file at /ERA5_analysis.ipynb
+[I 2025-01-17 11:23:31.062 JupyterNotebookApp] 302 GET /tree/ERA5_analysis.ipynb (b6e4352ae94f459e93671cd2372fc0ec@10.211.4.12) 1.57ms
+[I 2025-01-17 11:23:33.735 ServerApp] Connecting to kernel 135712cb-30a8-41d9-9635-6d322340fd69.
+[I 2025-01-17 11:23:34.239 ServerApp] Connecting to kernel 135712cb-30a8-41d9-9635-6d322340fd69.
+[I 2025-01-17 11:24:46.085 ServerApp] Saving file at /ERA5_analysis.ipynb
+[I 2025-01-17 11:26:46.273 ServerApp] Saving file at /ERA5_analysis.ipynb
+[W 2025-01-17 11:28:45.502 TerminalsExtensionApp] WebSocket ping timeout after 119992 ms.
+[W 2025-01-17 11:28:46.937 ServerApp] WebSocket ping timeout after 119994 ms.
+[I 2025-01-17 11:28:51.939 ServerApp] Starting buffering for 135712cb-30a8-41d9-9635-6d322340fd69:2646e74f-a8dd-4512-82de-53d15b304f8c
