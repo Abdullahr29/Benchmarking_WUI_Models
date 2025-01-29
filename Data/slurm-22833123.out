@@ -49,3 +49,4 @@ issuing the following command on the login node:
 [W 2025-01-17 11:28:45.502 TerminalsExtensionApp] WebSocket ping timeout after 119992 ms.
 [W 2025-01-17 11:28:46.937 ServerApp] WebSocket ping timeout after 119994 ms.
 [I 2025-01-17 11:28:51.939 ServerApp] Starting buffering for 135712cb-30a8-41d9-9635-6d322340fd69:2646e74f-a8dd-4512-82de-53d15b304f8c
+slurmstepd: error: *** JOB 22833123 ON erc-hpc-comp017 CANCELLED AT 2025-01-18T11:16:50 DUE TO TIME LIMIT ***
