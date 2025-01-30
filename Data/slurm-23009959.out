@@ -1,0 +1,147 @@
+1. SSH tunnel from your workstation using the following command:
+
+   ssh -NL 8888:erc-hpc-comp017:43879 k24109631@hpc.create.kcl.ac.uk
+
+   ssh -m hmac-sha2-512 -NL 8888:erc-hpc-comp017:43879 k24109631@hpc.create.kcl.ac.uk
+
+   and point your web browser to http://localhost:8888
+
+When done using the notebook, terminate the job by
+issuing the following command on the login node:
+
+      scancel -f 23009959
+
+[I 2025-01-29 15:38:43.253 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-01-29 15:38:43.261 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-01-29 15:38:43.271 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-01-29 15:38:43.279 ServerApp] notebook | extension was successfully linked.
+[I 2025-01-29 15:38:44.423 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-01-29 15:38:44.497 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-01-29 15:38:44.500 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-01-29 15:38:44.502 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-01-29 15:38:44.508 LabApp] JupyterLab extension loaded from /users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyterlab
+[I 2025-01-29 15:38:44.509 LabApp] JupyterLab application directory is /users/k24109631/miniconda3/envs/data_env/share/jupyter/lab
+[I 2025-01-29 15:38:44.510 LabApp] Extension Manager is 'pypi'.
+[I 2025-01-29 15:38:44.719 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-01-29 15:38:44.727 ServerApp] notebook | extension was successfully loaded.
+[I 2025-01-29 15:38:44.728 ServerApp] Serving notebooks from local directory: /users/k24109631/Projects/Benchmarking_WUI_Models/Data
+[I 2025-01-29 15:38:44.728 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-01-29 15:38:44.728 ServerApp] http://10.211.4.117:43879/lab
+[I 2025-01-29 15:38:44.728 ServerApp]     http://127.0.0.1:43879/lab
+[I 2025-01-29 15:38:44.728 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2025-01-29 15:38:44.784 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-01-29 15:40:55.582 ServerApp] 302 GET / (@10.211.4.11) 0.60ms
+[W 2025-01-29 15:40:55.700 ServerApp] Clearing invalid/expired login cookie username-localhost-8888
+[I 2025-01-29 15:40:55.700 LabApp] 302 GET /lab? (@10.211.4.11) 1.23ms
+[W 2025-01-29 15:41:02.024 ServerApp] 401 POST /login?next=%2Flab%3F (@10.211.4.11) 88.77ms referer=http://localhost:8888/login?next=%2Flab%3F
+[I 2025-01-29 15:41:06.774 ServerApp] User 52df7a4a824a4b0e848d165352e7e82b logged in.
+[I 2025-01-29 15:41:06.774 ServerApp] 302 POST /login?next=%2Flab%3F (52df7a4a824a4b0e848d165352e7e82b@10.211.4.11) 52.66ms
+[W 2025-01-29 15:41:08.068 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-01-29 15:41:08.381 ServerApp] New terminal with automatic name: 1
+[W 2025-01-29 15:41:09.193 ServerApp] Notebook ERA5_analysis.ipynb is not trusted
+[I 2025-01-29 15:41:09.499 ServerApp] Kernel started: d431f9ff-ee30-416b-a609-af76648fe82c
+[I 2025-01-29 15:41:10.441 ServerApp] Connecting to kernel d431f9ff-ee30-416b-a609-af76648fe82c.
+[I 2025-01-29 15:41:10.444 ServerApp] Connecting to kernel d431f9ff-ee30-416b-a609-af76648fe82c.
+[I 2025-01-29 15:41:10.508 ServerApp] Connecting to kernel d431f9ff-ee30-416b-a609-af76648fe82c.
+[I 2025-01-29 15:42:50.957 ServerApp] Creating new notebook in 
+[I 2025-01-29 15:42:51.245 ServerApp] Kernel started: 01493104-9c76-488c-8de5-2f550d3b53c9
+[I 2025-01-29 15:42:51.764 ServerApp] Connecting to kernel 01493104-9c76-488c-8de5-2f550d3b53c9.
+[I 2025-01-29 15:43:43.127 ServerApp] Starting buffering for 01493104-9c76-488c-8de5-2f550d3b53c9:084d119c-eb26-4c7c-88aa-834fa029d235
+[I 2025-01-29 15:43:47.560 ServerApp] Connecting to kernel 01493104-9c76-488c-8de5-2f550d3b53c9.
+[I 2025-01-29 15:43:50.031 ServerApp] Starting buffering for 01493104-9c76-488c-8de5-2f550d3b53c9:ea2e04ff-25f3-48c7-a202-ceb105de3bef
+[I 2025-01-29 15:43:55.159 ServerApp] Creating new notebook in /wrf_data/em_fire
+[I 2025-01-29 15:43:55.668 ServerApp] Kernel started: 090da819-e023-4306-a854-26ab73be7376
+[I 2025-01-29 15:43:56.173 ServerApp] Connecting to kernel 090da819-e023-4306-a854-26ab73be7376.
+[I 2025-01-29 15:47:00.940 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 15:55:03.014 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 15:57:03.192 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[W 2025-01-29 16:06:54.722 ServerApp] 400 GET /api/contents/wrf_data/em_fire/wrfout_d01_0001-01-01_00-52-00?type=file&content=1&hash=1&format=text&1738166814651 (10.211.4.11): /users/k24109631/Projects/Benchmarking_WUI_Models/Data/wrf_data/em_fire/wrfout_d01_0001-01-01_00-52-00 is not UTF-8 encoded
+[W 2025-01-29 16:06:54.726 ServerApp] wrote error: '/users/k24109631/Projects/Benchmarking_WUI_Models/Data/wrf_data/em_fire/wrfout_d01_0001-01-01_00-52-00 is not UTF-8 encoded'
+    Traceback (most recent call last):
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_server/services/contents/fileio.py", line 536, in _read_file
+        (bcontent.decode("utf8"), "text", bcontent)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+    UnicodeDecodeError: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+    
+    The above exception was the direct cause of the following exception:
+    
+    Traceback (most recent call last):
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_core/utils/__init__.py", line 198, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_server/services/contents/filemanager.py", line 926, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_server/services/contents/filemanager.py", line 835, in _file_model
+        content, format, bytes_content = await self._read_file(os_path, format, raw=True)  # type: ignore[misc]
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_server/services/contents/fileio.py", line 545, in _read_file
+        raise HTTPError(
+    tornado.web.HTTPError: HTTP 400: bad format (/users/k24109631/Projects/Benchmarking_WUI_Models/Data/wrf_data/em_fire/wrfout_d01_0001-01-01_00-52-00 is not UTF-8 encoded)
+[W 2025-01-29 16:06:54.747 ServerApp] 400 GET /api/contents/wrf_data/em_fire/wrfout_d01_0001-01-01_00-52-00?type=file&content=1&hash=1&format=text&1738166814651 (52df7a4a824a4b0e848d165352e7e82b@10.211.4.11) 45.31ms referer=http://localhost:8888/lab/tree/wrf_data/em_fire/wrfout_d01_0001-01-01_00-52-00
+[I 2025-01-29 16:09:03.352 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:13:03.501 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:15:03.711 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:19:03.864 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:21:03.938 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:23:04.028 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:25:04.121 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:29:04.345 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:31:04.450 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:35:04.918 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:37:05.084 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:39:05.225 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:41:05.456 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:43:05.620 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:45:05.766 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:47:05.893 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:49:06.016 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:51:06.154 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 16:57:06.346 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[W 2025-01-29 16:58:36.593 ServerApp] 400 GET /api/contents/wrf_data/em_fire/ideal?type=file&content=1&hash=1&format=text&1738169916431 (10.211.4.11): /users/k24109631/Projects/Benchmarking_WUI_Models/Data/wrf_data/em_fire/ideal is not UTF-8 encoded
+[W 2025-01-29 16:58:36.596 ServerApp] wrote error: '/users/k24109631/Projects/Benchmarking_WUI_Models/Data/wrf_data/em_fire/ideal is not UTF-8 encoded'
+    Traceback (most recent call last):
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_server/services/contents/fileio.py", line 536, in _read_file
+        (bcontent.decode("utf8"), "text", bcontent)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+    UnicodeDecodeError: 'utf-8' codec can't decode byte 0xfc in position 42: invalid start byte
+    
+    The above exception was the direct cause of the following exception:
+    
+    Traceback (most recent call last):
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_core/utils/__init__.py", line 198, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_server/services/contents/filemanager.py", line 926, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_server/services/contents/filemanager.py", line 835, in _file_model
+        content, format, bytes_content = await self._read_file(os_path, format, raw=True)  # type: ignore[misc]
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyter_server/services/contents/fileio.py", line 545, in _read_file
+        raise HTTPError(
+    tornado.web.HTTPError: HTTP 400: bad format (/users/k24109631/Projects/Benchmarking_WUI_Models/Data/wrf_data/em_fire/ideal is not UTF-8 encoded)
+[W 2025-01-29 16:58:36.598 ServerApp] 400 GET /api/contents/wrf_data/em_fire/ideal?type=file&content=1&hash=1&format=text&1738169916431 (52df7a4a824a4b0e848d165352e7e82b@10.211.4.11) 101.81ms referer=http://localhost:8888/lab/tree/wrf_data/em_fire/ideal
+[I 2025-01-29 17:05:06.541 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 17:06:12.722 ServerApp] Saving file at /wrf_data/em_fire/wrf_analysis.ipynb
+[I 2025-01-29 17:06:29.522 ServerApp] Starting buffering for 090da819-e023-4306-a854-26ab73be7376:dfbdf48d-8007-48e8-91d9-f095ed780177
+[I 2025-01-29 17:06:29.523 ServerApp] Starting buffering for d431f9ff-ee30-416b-a609-af76648fe82c:629b25fa-329d-464b-831b-5179222e5aba
+slurmstepd: error: *** JOB 23009959 ON erc-hpc-comp017 CANCELLED AT 2025-01-30T09:45:37 ***
