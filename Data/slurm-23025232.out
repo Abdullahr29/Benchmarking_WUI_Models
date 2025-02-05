@@ -1,0 +1,34 @@
+1. SSH tunnel from your workstation using the following command:
+
+   ssh -NL 8888:erc-hpc-comp183:51207 k24109631@hpc.create.kcl.ac.uk
+
+   ssh -m hmac-sha2-512 -NL 8888:erc-hpc-comp183:51207 k24109631@hpc.create.kcl.ac.uk
+
+   and point your web browser to http://localhost:8888
+
+When done using the notebook, terminate the job by
+issuing the following command on the login node:
+
+      scancel -f 23025232
+
+[I 2025-01-30 10:23:18.223 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-01-30 10:23:18.231 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-01-30 10:23:18.240 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-01-30 10:23:18.246 ServerApp] notebook | extension was successfully linked.
+[I 2025-01-30 10:23:20.003 ServerApp] notebook_shim | extension was successfully linked.
+[W 2025-01-30 10:23:20.125 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2025-01-30 10:23:20.127 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-01-30 10:23:20.129 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-01-30 10:23:20.132 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-01-30 10:23:20.211 LabApp] JupyterLab extension loaded from /users/k24109631/miniconda3/envs/data_env/lib/python3.11/site-packages/jupyterlab
+[I 2025-01-30 10:23:20.211 LabApp] JupyterLab application directory is /users/k24109631/miniconda3/envs/data_env/share/jupyter/lab
+[I 2025-01-30 10:23:20.212 LabApp] Extension Manager is 'pypi'.
+[I 2025-01-30 10:23:20.509 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-01-30 10:23:20.517 ServerApp] notebook | extension was successfully loaded.
+[I 2025-01-30 10:23:20.517 ServerApp] Serving notebooks from local directory: /users/k24109631/Projects/Benchmarking_WUI_Models/Data
+[I 2025-01-30 10:23:20.517 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-01-30 10:23:20.517 ServerApp] http://localhost:51207/lab
+[I 2025-01-30 10:23:20.517 ServerApp]     http://127.0.0.1:51207/lab
+[I 2025-01-30 10:23:20.517 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2025-01-30 10:23:20.691 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+slurmstepd: error: *** JOB 23025232 ON erc-hpc-comp183 CANCELLED AT 2025-01-30T17:45:29 ***

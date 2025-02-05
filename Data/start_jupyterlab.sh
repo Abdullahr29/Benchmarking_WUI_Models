@@ -3,7 +3,6 @@
 #SBATCH --job-name=test-jlab
 #SBATCH --partition=cpu
 #SBATCH --ntasks=4
-#SBATCH --mem=2G
 #SBATCH --signal=USR2
 #SBATCH --cpus-per-task=1
 
